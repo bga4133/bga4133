@@ -1,12 +1,13 @@
-### Hi, I'm Brayan Garcia 🙋‍♂️🤟🏿
+### Frontend developer / Mern stack developer , Mongo, express, react , node, vue, sass, RxJs, git , css3 , styled-components , Axios 🙋‍♂️🤟🏿
+
+<h2 style="font-size:30px;font-family: 'Poppins', sans-serif;">Hola</h2>
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQG_-jOowiXr8g/feedshare-shrink_2048_1536/0?e=1597881600&v=beta&t=U_MiNpW5Exmu0bQAllOKuHAIcRmGQCOAVbGh1Q1gf74" alt="Frontend developer / Mern stack developer , Mongo, express, react , node, vue, sass, RxJs, git , css3 , styled-components , Axios ">
+
+💻
 
 <!--
 **bga4133/bga4133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2 style="font-size:30px;font-family: 'Poppins', sans-serif;">Hola</h2>
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQG_-jOowiXr8g/feedshare-shrink_2048_1536/0?e=1597881600&v=beta&t=U_MiNpW5Exmu0bQAllOKuHAIcRmGQCOAVbGh1Q1gf74"></img>
-
-💻
 
 Here are some ideas to get you started:
 
